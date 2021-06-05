@@ -24,3 +24,4 @@ Mathematical Projects using Python(NumPy | Matplotlib | SciPy |
 scikit-learn | Pandas). Leading Mozilla Campus Club @qxresearch
 
 I'm a Creative Artist (Acrylic | Computer Vision)
+
