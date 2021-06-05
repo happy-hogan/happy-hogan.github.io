@@ -4,7 +4,7 @@ category: staff
 title: Rohit Prasan Mandal
 image: rmp.png
 role: Lab Director
-permalink: 'team/researcher-name'
+permalink: 'team/rohit-prasan-mandal'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
