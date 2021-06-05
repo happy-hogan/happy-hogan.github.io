@@ -1,10 +1,10 @@
 ---
 layout: member
-category: Researcher
-title: Researcher Rohit Prasan Mandal
+category: student
+title: Rohit Prasan Mandal
 image: researcher.png
 role: Founder, Researcher
-permalink: 'team/researcher-name'
+permalink: 'team/Rohit-Prasan-Mandal'
 social:
     twitter: https://twitter.com/xiaowuc2
     linkedin: https://www.linkedin.com/in/xiaowuc2
@@ -12,14 +12,6 @@ social:
 education:
  - B.Tech Computer Science
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
 
 I am currently in my second year pursuing Bachelors of Technology in 
 Computer Science @UEM Kolkata. I'm working on Higher Physics and 
