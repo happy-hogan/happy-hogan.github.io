@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: staff
 title: Rohit Prasan Mandal
 image: rmp.png
 role: ML Researcher
