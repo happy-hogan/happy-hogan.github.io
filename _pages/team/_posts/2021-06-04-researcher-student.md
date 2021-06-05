@@ -1,16 +1,20 @@
 ---
 layout: member
-category: student
+category: staff
 title: Rohit Prasan Mandal
 image: ache.jpg
 role: Founder, Researcher
-permalink: 'team/Rohit-Prasan-Mandal'
+permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/xiaowuc2
     linkedin: https://www.linkedin.com/in/xiaowuc2
+    google-scholar: 
     github: https://github.com/xiaowuc2
+    website:
+    orcid: 
+    research-gate: 
 education:
- - B.Tech Computer Science
+ - Computer Science B.Tech Student
 ---
 
 I am currently in my second year pursuing Bachelors of Technology in 
