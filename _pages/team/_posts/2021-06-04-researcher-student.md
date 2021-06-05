@@ -2,7 +2,7 @@
 layout: member
 category: staff
 title: Rohit Prasan Mandal
-image: ache.jpg
+image: rmp.png
 role: Founder, Researcher
 permalink: 'team/researcher-name'
 social:
