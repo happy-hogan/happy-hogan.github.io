@@ -4,7 +4,7 @@ category: staff
 title: 'Rohit Prasan Mandal'
 image: 'rmp.png'
 role: Founder
-permalink: 'team/rohit-prasan-mandal'
+permalink: 'team/rohit-p-mandal'
 social:
     twitter: https://twitter.com/xiaowuc2
     linkedin: https://www.linkedin.com/in/xiaowuc2
