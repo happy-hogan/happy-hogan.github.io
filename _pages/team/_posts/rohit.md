@@ -10,7 +10,7 @@ social:
     linkedin: https://www.linkedin.com/in/xiaowuc2
     github: https://github.com/xiaowuc2
 education:
- - Computer Science B.Tech student
+ - B.Tech Computer Science
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
