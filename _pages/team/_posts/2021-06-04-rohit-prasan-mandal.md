@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Rohit Prasan Mandal
 image: rmp.png
-role: Founder, Researcher
+role: ML Researcher
 permalink: 'team/rohit-prasan-mandal'
 social:
     twitter: https://twitter.com/xiaowuc2
