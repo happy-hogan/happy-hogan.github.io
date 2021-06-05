@@ -1,8 +1,8 @@
 ---
 layout: member
 category: staff
-title: Rohit Prasan Mandal
-image: rmp.png
+title: 'Rohit Prasan Mandal'
+image: 'rmp.png'
 role: Founder
 permalink: 'team/rohit-prasan-mandal'
 social:
