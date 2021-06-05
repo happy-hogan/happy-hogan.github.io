@@ -1,10 +1,10 @@
 ---
 layout: member
-category: staff
+category: student
 title: Rohit Prasan Mandal
 image: rmp.png
 role: Founder, Researcher
-permalink: 'team/researcher-name'
+permalink: 'team/rohit-prasan-mandal'
 social:
     twitter: https://twitter.com/xiaowuc2
     linkedin: https://www.linkedin.com/in/xiaowuc2
@@ -15,6 +15,7 @@ social:
     research-gate: 
 education:
  - Computer Science B.Tech Student
+
 ---
 
 I am currently in my second year pursuing Bachelors of Technology in 
