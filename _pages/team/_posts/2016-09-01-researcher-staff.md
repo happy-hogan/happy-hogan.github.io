@@ -1,8 +1,8 @@
 ---
 layout: member
 category: staff
-title: Researcher Name
-image: researcher.png
+title: Rohit Prasan Mandal
+image: rmp.png
 role: Lab Director
 permalink: 'team/researcher-name'
 social:
