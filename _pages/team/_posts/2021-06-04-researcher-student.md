@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: Rohit Prasan Mandal
-image: researcher.png
+image: asche.jpg
 role: Founder, Researcher
 permalink: 'team/Rohit-Prasan-Mandal'
 social:
